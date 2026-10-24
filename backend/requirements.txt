@@ -3,3 +3,9 @@ uvicorn
 openai
 python-dotenv
 python-multipart
+pypdf
+python-docx
+sqlalchemy
+psycopg2-binary
+pyjwt
+bcrypt
