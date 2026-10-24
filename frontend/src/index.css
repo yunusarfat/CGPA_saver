@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.flip { perspective: 1000px; }
+.flip-inner { transition: transform 0.5s; transform-style: preserve-3d; position: relative; }
+.flip-inner.is-flipped { transform: rotateY(180deg); }
+.flip-face { backface-visibility: hidden; }
+.flip-back { transform: rotateY(180deg); position: absolute; inset: 0; }
