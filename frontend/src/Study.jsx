@@ -209,7 +209,7 @@
 
 import { useState } from "react";
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const API_URL = import.meta.env.VITE_API_URL || "https://cgpa-saver.onrender.com";
 
 // Shrink the photo before upload: faster and cheaper for the model
 async function resizeImage(file, max = 1024) {
