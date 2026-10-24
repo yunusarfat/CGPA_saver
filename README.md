@@ -1,4 +1,4 @@
-# 🎓 IIUC Campus Copilot
+# 🎓 CGPA Saver
 
 **A study helper built on open-source AI.** Turn messy notes into clean summaries, flip-card questions and timed exams, then share them with the whole IIUC community.
 
