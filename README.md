@@ -27,7 +27,7 @@ Good exam preparation material at IIUC lives in the wrong places: top students' 
 | Model | Where it runs | What it does in the app |
 |---|---|---|
 | **Gemma 3 (1B)** | Locally through [Ollama](https://ollama.com) | Summaries of English text notes |
-| **Qwen (27B)** (`<EXACT_MODEL_ID>`) | Hosted inference provider: [Groq](https://groq.com) | Reads photos and long documents, handles Bangla, and writes the exams |
+| **Qwen (27B)** | Hosted inference provider: [Groq](https://groq.com) | Reads photos and long documents, handles Bangla, and writes the exams |
 
 The model that does the core work (summaries, questions and exams) is always an open-weight model. Photos and long documents are routed to the hosted Qwen model because the small local model cannot read images.
 
