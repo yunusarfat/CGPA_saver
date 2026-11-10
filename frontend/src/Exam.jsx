@@ -4,7 +4,7 @@
 
 // export default function Exam({ source, language }) {
 //   const [exam, setExam] = useState(null);
-//   const [answers, setAnswers] = useState({});
+
 //   const [submitted, setSubmitted] = useState(false);
 //   const [loading, setLoading] = useState(false);
 //   const [error, setError] = useState("");
