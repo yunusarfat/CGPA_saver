@@ -134,10 +134,6 @@ Open the URL Vite prints (usually `http://localhost:5173`).
 - The notes library is a demo: please do not upload personal or private information.
 - Everything was built solo during the competition period, and AI-assisted coding was done with Claude.
 
-## Licence
-
-Released under the [MIT Licence](LICENSE).
-
 ## Hacktoberfest
 
 This repository uses the `hacktoberfest` topic. Contributions are welcome, so please follow the usual contribution etiquette and open an issue before large changes.
